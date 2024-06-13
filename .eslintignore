@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/build
+/src/assets
+rollup.config.js
+vite.config.ts
+vite-env.d.ts
